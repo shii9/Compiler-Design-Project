@@ -24,47 +24,17 @@ The language supports:
 
 ```
 Compiler-Design-Project/
-├── all.c                    # Main compiler source code (1510 lines)
+├── 1.c                    # Main compiler source code (1510 lines)
 ├── example1.c               # Test: Function with loop
 ├── example2.c               # Test: Main function with loop
 ├── example3.c               # Test: Simple main function
-├── compile_and_run.bat      # Automated build script (Windows)
-├── README.md                # This file
-└── FIX_SUMMARY.md           # Technical documentation of bug fixes
 ```
 
 ## 🚀 Quick Start
 
-### Prerequisites
-
-You need a C compiler. Choose one:
-- **MinGW-w64** (GCC for Windows): [Download](https://www.mingw-w64.org/)
-- **Visual Studio** (MSVC): [Download](https://visualstudio.microsoft.com/)
-- **Online Compiler**: [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) or [Programiz](https://www.programiz.com/c-programming/online-compiler/)
-
-### Compilation & Execution
-
-#### Method 1: Automated Script (Windows)
-```bash
-# Simply double-click or run:
-compile_and_run.bat
-```
-
-#### Method 2: Manual Compilation (GCC)
-```bash
-gcc -o compiler.exe all.c
-./compiler.exe
-```
-
-#### Method 3: Manual Compilation (MSVC)
-```bash
-cl all.c /Fe:compiler.exe
-compiler.exe
-```
-
-#### Method 4: Online Compiler
+#### Method: Online Compiler
 1. Go to [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)
-2. Upload `all.c`
+2. Upload `1.c`
 3. Click "Run"
 4. Paste example code when prompted
 5. Type `END` and press Enter
