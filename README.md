@@ -305,10 +305,6 @@ This is an educational project for CSE332 Compiler Design Lab. Feel free to:
 - Fork and experiment with the grammar
 - Add new language features
 
-## 📄 License
-
-This project is created for educational purposes as part of CSE332 Compiler Design coursework.
-
 ## 🙏 Acknowledgments
 
 - Compiler Design Lab Course
@@ -317,4 +313,4 @@ This project is created for educational purposes as part of CSE332 Compiler Desi
 
 ---
 
-For technical details about bug fixes, see [FIX_SUMMARY.md](FIX_SUMMARY.md)
+This project is created for purposes as part of CSE332 Compiler Design coursework.
